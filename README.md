@@ -25,6 +25,7 @@ Screenshots (concept and experience), Video
 
 
 Grobkonzept VR Projekt – Franziska Wesenauer
+
 In meinem VR Spiel geht es darum, dass man drei Hasen finden und füttern muss, um von ihnen
 Ostereier zu erhalten. Die im Anschluss in ein riesiges Osternest befördert werden müssen um das
 Spiel zu gewinnen.
@@ -82,6 +83,8 @@ Am Anfang des Spieles spawnt man auf einer Fläche vor dem Eingang des Labyrinth
 
 For testing without a headset, use the XR Device Simulator (included in the xr interaction toolkit package):  https://www.youtube.com/watch?v=d4bTpkvBwrs
 
-### Limitations/Problems: 
 
-Copyright by smeerws :)
+### Limitations/Problems: 
+Hab leider nicht damit gerechnet, dass dieses Wochenende schon abgabe ist, dementsprechend bin ich aktuell noch nicht wirklich fertig, sounds und manche grafischen Elemente fehlen leider noch.
+
+Copyright by fwesenauer :)
