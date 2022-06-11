@@ -21,7 +21,62 @@ Oculus Rift/S; Quest/2
 ### Visuals: 
 Screenshots (concept and experience), Video
 
-![SkizzeMaze](https://user-images.githubusercontent.com/28704310/159113247-e0cfe023-79fb-4ffd-b76f-342c55d93ef2.png)
+![image](https://user-images.githubusercontent.com/72736373/173175407-01af0d5c-506e-4663-a62b-cae17eaf29f9.png)
+
+
+Grobkonzept VR Projekt – Franziska Wesenauer
+In meinem VR Spiel geht es darum, dass man drei Hasen finden und füttern muss, um von ihnen
+Ostereier zu erhalten. Die im Anschluss in ein riesiges Osternest befördert werden müssen um das
+Spiel zu gewinnen.
+Der Grund, warum man das Spiel gerne spielt, ist dass es einfach großartig ist süße Hasen zu füttern
+und allgemein wird die Umgebung sehr „niedlich“ gestaltet, wodurch man sich gerne in der
+Umgebung aufhält.
+
+Minigame 1:
+Am Anfang des Spieles spawnt man auf einer Fläche vor dem Eingang des Labyrinths. Auf dieser
+Fläche befinden sich drei „Felder“. Eins mit Karotten, eins mit Apfelbäumen und eines mit Blumen.
+Von jedem dieser drei Dinge muss man eines Ernten, das daraufhin in einer Art Inventar angezeigt
+wird. Dabei wird jeweils ein Sound abgespielt, der im späteren Verlauf noch nützlich sein wird. Der
+Eingang des Labyrinths öffnet sich, sobald man alle drei hat. Nun ist die Aufgabe drei Hasen zu
+finden. Sobald man in die Nähe von einem kommt, ist wieder derselbe Sound zu hören der beim
+Ernten auch war und aufgrund dessen muss man sie füttern. Hat man das geschafft bekommt man
+von dem gerade gefütterten Hasen ein Osterei, dass später dazu verwendet wird um die Ausgangstür
+
+zu öffnen.
+Minigame 2:
+Wenn man die Tür erfolgreich geöffnet hat, befindet sich dahinter drei Buttons und etwas oberhalb
+schwebt ein riesiges Osternest. Die zuvor gefundenen Eier befinden sich hinter den Buttons und
+durch wiederholtes Drücken der Knöpfe werden sie nach oben befördert. Allerdings pro drücken nur
+eine gewisse Höhe und man muss aufpassen, dass sie nicht wieder herunter fallen da sie dabei
+kaputt gehen würden. Abgeschlossen ist das Ganze, sobald sich alle drei Eier im Korb befinden.
+
+Liste Sounds:
+Atmo, 3 Sounds für die Hasen, „Jump“-Sound, „Fress“-Sound
+
+Arbeitsschritte:
+1. Unity starten
+2. Projekt anlegen
+3. GitHub Repository anlegen
+4. Maze importieren
+5. Schauen dass Fortbewegung etc. funktioniert
+6. 3D Assets und Sounds suchen
+7. Whiteboxing
+8. Ernten programmieren
+9. Ernten testen
+10. Labyrinth Hasen programmieren
+11. Labyrinth Hasen testen
+12. Minigame 2 programmieren
+13. Minigame 2 testen
+14. Überarbeitung
+15. Final Build
+
+Minigame 1 Beschreibung Franziska Wesenauer
+Am Anfang des Spieles spawnt man auf einer Fläche vor dem Eingang des Labyrinths. Auf dieser Fläche befindet sich ein Apfelbaum mit einem Apfel, ein Korb mit einer Karotte und ein Feld mit Salat. Von jedem dieser Dinge wird eines eingesammelt und in einen Korb, den der Spieler in der Hand hat, gelegt. Beim Einsammeln der Objekte wird pro Gegenstand ein anderer Sound abgespielt. Als nächstes gehts ins Labyrinth, wo man die drei versteckten Hasen finden muss, in der Umgebung der Hasen werden wiederrum dieselben Sounds abgespielt wie bereits vorher auch und so sollte es möglich sein das richtige Futter den Hasen zuzuordnen. Wurden die jeweiligen Hasen gefüttert spawnt vor ihnen ein Osterei, das es jetzt aufzuheben gilt. Diese Ostereier kann man wieder in den Korb packen um sie bis zum Ausgang mitzunehmen. Am Ausgang ist ein Podest, auf das die Eier in der richtigen Reihenfolge gelegt werden müssen. War das erfolgreich öffnet sich die Tür zum Ausgang.
+1. Gegenstände einsammeln
+2. In Korb Legen
+3. Hasen droppen Ostereier
+4. Ostereier werden richtig angeordnet
+5. Tür öffnet sich
 
 ### Third party material: 
 
