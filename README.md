@@ -85,6 +85,6 @@ For testing without a headset, use the XR Device Simulator (included in the xr i
 
 
 ### Limitations/Problems: 
-Hab leider nicht damit gerechnet, dass dieses Wochenende schon abgabe ist, dementsprechend bin ich aktuell noch nicht wirklich fertig, sounds und manche grafischen Elemente fehlen leider noch.
+Hab leider die Start und End Scene nichtmehr zum laufen bekommen, und allgemein die Befürchtung, dass ich mit den letzten Änderungen einiges wieder kaputt gemacht haben könnte.
 
 Copyright by fwesenauer :)
